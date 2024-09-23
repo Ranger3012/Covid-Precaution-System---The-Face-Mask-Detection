@@ -1,4 +1,4 @@
-# Covid-Precaution-System
+# Covid Precaution System - The Face Mask Detection
 Computer Vision-Based Deep Learning Project
 
 # Dataset
